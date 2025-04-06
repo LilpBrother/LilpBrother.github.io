@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
             title: 'Cyberpunk 2077: Обновление 2.2', 
             content: 'CD Projekt Red выпустили обновление 2.2 для Cyberpunk 2077 с множеством исправлений и улучшений.',
             image: 'assets/game1.jpg',
-             link: 'https://www.cyberpunk.net/ru/news/50380/patch-2-12-dlya-cyberpunk-2077-uzhe-dostupen'
+             link: 'https://www.cyberpunk.net'
         },
         {
             title: 'Анонс новой игры от Bethesda',
